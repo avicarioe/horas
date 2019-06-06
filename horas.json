@@ -1,0 +1,28 @@
+{
+  "trabajadores":[
+    {
+      "nombre": "Alejandro",
+      "apellidos": "Vicario Espinosa",
+      "NIF": "11111111-S",
+      "centro": "ETSIT",
+	  "responsable": "Jose Manuel Moya Fernandez",
+	  "hora_entrada1": "9:00",
+	  "hora_salida1": "13:00",
+	  "hora_entrada2": "",
+	  "hora_salida2": "",
+	  "total": 4
+    },
+    {
+      "nombre": "Otro",
+      "apellidos": "Trabajador",
+      "NIF": "12345678-A",
+      "centro": "ETSIT",
+	  "responsable": "Jose Manuel Moya Fernandez",
+	  "hora_entrada1": "9:00",
+	  "hora_salida1": "13:00",
+	  "hora_entrada2": "15:00",
+	  "hora_salida2": "18:00",
+	  "total": 7
+    }
+  ]
+}
